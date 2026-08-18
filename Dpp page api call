@@ -1,0 +1,49 @@
+GET https://vidcloud.eu.org/api/v2/batches/634bd315ed7a360018558283/subject/699f15c8fb58aa8dd7fa6d75/contents?tag=6a0bf4dccd2a76b86af6e5fe&contentType=DppNotes&page=1 200
+
+Request Headers
+
+Authorization: Bearer Qd2wfhzRoi5eQdoITwpbNKPMdMTNSs37YUjvj0rSb5sNyhMiNwdYRCmgiTbUdxAiwoKxlTZw4oxIBhQgF0gu/xtKX3HqVtFWr92AeI1pkZTFeu6PUuxH7TWHZZt0tjQTbqiTU5LtKUgNVH0J1XTxAbhK9ra00TAqqGqM3TDt1QQ/K3VV+TBtE0HDfYV/Gko2H6uUCJ5h5phSoq7ZxK+oMLaFpgDmSlSCThAU49NNA9oBjDZPddRLIE6fddbImkSh82bnAs19dfhX1Kf8vvjNcbLFoOc6YOukBiBQoStNvuTfdGbmPq8taF1ilsqG54nxD8Kz1DXLUwu79uVddBWrqaCROvX+QUl4Ef9MYzVEo3icIfg468YerfBV3ZFdlIobEnH728gLL/SXSm3RnMMqBenwVuw3CSR7dpGcIaS/ewitu63sIhlBQ6D7w9LuACJMfDGdNvpQpfVrpJvhIu4GGIJgHFtmbO6ba73oqnN9HPPX9bGZ9zGDXIdT4kGD2jwxnqMUDynPELwjhBQU/nmXwPHL9ze9mYGGh9NInWpi1opZFjgq2KQF8kZwQ9v4TX0/qA5kA/aP377IVFXN5iq7Fy9ngEkdP1S0pFuqycxeKmiSB1wPtDpOSXNKZJha4t8oh8HFlR6jIQYl0YkA7yhdYOZZ2KsdMsJY29QCqpOyDI9WUR7jyI5PcUzInGwLxY9ldfdH6T5A7e/oAmL5S99S9TPqI7BzQBhnIWg/HfOAMKIkA05czuWlm5itqYPR09JcUHj3F9LuJ1UCulIIcgrlSofOARP394F0m0lAtNLGwPEvtSTrif/alMmxtvtzR31jtdnkoCDrXOo1o0WAlyUbbFHRP6oGWsoNyM3+R3a8dd4=
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+Client-Id: 5eb393ee95fab7468a79d189
+Client-Type: WEB
+Client-Version: 2.1.6
+If-None-Match: W/"428-hT7bz047ONtYfHPB7gUh9/xUDPY"
+Origin: https://www.pw.live
+Referer: https://www.pw.live/
+Priority: u=1, i
+Randomid: 9c352352-6284-4ae9-9abf-afa9fe86d8e0
+Version: 0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+
+Response Headers
+
+access-control-allow-credentials: true
+access-control-allow-headers: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE, OPTIONS
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cf-ray: a2d2a605eb175f58-SIN
+content-encoding: br
+content-length: 1530
+content-security-policy: upgrade-insecure-requests
+content-type: application/json; charset=utf-8
+date: Tue, 18 Aug 2026 17:30:50 GMT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+panel: hpanel
+platform: hostinger
+priority: u=1,i
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kSMFz%2Fb7XSNAot9xosNsXKgJ5ruFtEhnafu6faN5EdmyWGOwJMjd20fis%2FtxAiAVgx9I%2B0Xb8FeLplSrWlwmZMaLVu0IiMOaVKspndOUp5kX5P1QcLfa2QSSrArmYzF%2BjMYNoc3kABpscZpPVUuIv2QPsiDAhXngWQQVt%2BVdeD%2BMlU5kYpiu"}]}
+server: cloudflare
+server-timing: cfExtPri
+vary: Accept-Encoding
+via: 1.1 397c301f5c5b5e051fa56f3cab45739c.cloudfront.net (CloudFront)
+x-amz-cf-id: TK8G3__bEY4KyFd9ziC9np0tuW7NM8vYQK_8Mfx0wm9SBF4fveB9qg==
+x-amz-cf-pop: LHR82-P1
+x-cache: Miss from cloudfront
+x-firefox-http3: h3
+x-powered-by: PHP/8.2.30
+x-turbo-charged-by: LiteSpeed
+
+{"success":true,"data":[{"_id":"6a1ff7f0b8a8d9e47cbec8a6","isFree":false,"status":"PENDING","date":"2026-06-03T00:00:00.000Z","startTime":"2026-06-03T11:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a1ff65eb6f1b1a16ff6ae28","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 08 (EXTRA DPP) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a1ff65a0953c5638878994c","baseUrl":"https://static.pw.live/","createdAt":"2026-06-03T09:39:38.914Z","key":"5eb393ee95fab7468a79d189/ADMIN/d0f246e3-2679-4978-b276-553d53bfbda1.pdf","name":"गणितीय उपकरण  DPP 08.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-08--extra-dpp--||-yakeen-neet-hindi-2027-461207","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a1fbcc1b6f1b1a16ff58980","isFree":false,"status":"PENDING","date":"2026-06-03T00:00:00.000Z","startTime":"2026-06-03T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a1fbbcfb8c92749a8ba715d","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 07 (of lec 10) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a1fbbcb9ddc6a9cbe064a53","baseUrl":"https://static.pw.live/","createdAt":"2026-06-03T05:29:47.511Z","key":"5eb393ee95fab7468a79d189/ADMIN/cb973332-230e-4694-b288-a671f33e9ead.pdf","name":"गणितीय उपकरण  DPP 07.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-07--of-lec-10--||-yakeen-neet-hindi-2027-907421","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a1e6ca9c79d9452d2c779e6","isFree":false,"status":"PENDING","date":"2026-06-02T00:00:00.000Z","startTime":"2026-06-02T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a1e6bda4171efda620c69c0","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 06 (of lec 09) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a1e6bd70953c56388744927","baseUrl":"https://static.pw.live/","createdAt":"2026-06-02T05:36:23.528Z","key":"5eb393ee95fab7468a79d189/ADMIN/381425fb-3f3a-457b-9942-aa6adf1b9794.pdf","name":"गणितीय उपकरण  DPP 06.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-06--of-lec-09--||-yakeen-neet-hindi-2027-606806","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a1d5d3694f61a193cdd3cb8","isFree":false,"status":"PENDING","date":"2026-06-01T00:00:00.000Z","startTime":"2026-06-01T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a1d5c6dde4564a41aa14d75","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 05 (of lec 08) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a1d5c6a9d078d4722508e50","baseUrl":"https://static.pw.live/","createdAt":"2026-06-01T10:18:18.842Z","key":"5eb393ee95fab7468a79d189/ADMIN/0ed76614-673f-4061-aa48-f6501daa1bfe.pdf","name":"गणितीय उपकरण DPP 05.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-05--of-lec-08--||-yakeen-neet-hindi-2027-568121","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a19562f92e5efe9a9a13171","isFree":false,"status":"PENDING","date":"2026-05-29T00:00:00.000Z","startTime":"2026-05-29T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a195574e8ed05b343e4e5fb","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 04 (of lec 07) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a19557274fe818f5e9f62a3","baseUrl":"https://static.pw.live/","createdAt":"2026-05-29T08:59:30.247Z","key":"5eb393ee95fab7468a79d189/ADMIN/aadf689c-50dd-4434-8a1b-854ae4993e29.pdf","name":"गणितीय उपकरण DPP 04.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-04--of-lec-07--||-yakeen-neet-hindi-2027-673097","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a1547d1dbc89197ebd210b6","isFree":false,"status":"PENDING","date":"2026-05-26T00:00:00.000Z","startTime":"2026-05-26T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a15467be45d5a3d00f8097f","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 03 (of lec 05) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a1546785db0a8b2a7a56893","baseUrl":"https://static.pw.live/","createdAt":"2026-05-26T07:06:32.658Z","key":"5eb393ee95fab7468a79d189/ADMIN/362b91fa-5d97-4716-9d6b-1d43297392a8.pdf","name":"गणितीय उपकरण DPP 03.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-03--of-lec-05--||-yakeen-neet-hindi-2027-117327","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a0fe87158b102baebb5d192","isFree":false,"status":"PENDING","date":"2026-05-22T00:00:00.000Z","startTime":"2026-05-22T03:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a0fe761aa40350aec2f73f5","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 02 (of lec 03) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a0fe75fe6bbf4560b022101","baseUrl":"https://static.pw.live/","createdAt":"2026-05-22T05:19:27.247Z","key":"5eb393ee95fab7468a79d189/ADMIN/daf95d97-fa05-4d6b-b1f7-6e4df5a1f958.pdf","name":"गणितीय उपकरण DPP 02.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-02--of-lec-03--||-yakeen-neet-hindi-2027-722113","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null},{"_id":"6a0ea17eb94d5de034ce7def","isFree":false,"status":"PENDING","date":"2026-05-21T00:00:00.000Z","startTime":"2026-05-21T05:30:00.000Z","isDPPNotes":true,"homeworkIds":[{"_id":"6a0e9f28150fcac335221336","actions":["Open","Download","Print"],"topic":"गणितीय उपकरण : DPP 01(of lec 02) || Yakeen NEET Hindi 2027","note":"DPP","attachmentIds":[{"_id":"6a0e9f25b04c06b3dbfac345","baseUrl":"https://static.pw.live/","createdAt":"2026-05-21T05:59:01.545Z","key":"5eb393ee95fab7468a79d189/ADMIN/7880c707-e55b-4558-a575-ad2e99d0c446.pdf","name":"गणितीय उपकरण DPP 01.pdf"}],"batchSubjectId":"699f15c8fb58aa8dd7fa6d75","solutionVideoType":"none","solutionVideoUrl":null,"slug":"गणितीय-उपकरण---dpp-01-of-lec-02--||-yakeen-neet-hindi-2027-095814","status":"Active"}],"isBatchDoubtEnabled":false,"isSimulatedLecture":false,"action":null,"planId":null,"visibleToLowerPlans":null}],"paginate":{"limit":20,"totalCount":0}}
