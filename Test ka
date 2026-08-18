@@ -1,0 +1,48 @@
+GET https://vidcloud.eu.org/api/v3/test-service/tests?testType=All&testStatus=All&attemptStatus=All&batchId=698adaafee5f29171102c9ca&isSubjective=false&isPurchased=true 200
+
+Request Headers
+
+Authorization: Bearer Qd2wfhzRoi5eQdoITwpbNKPMdMTNSs37YUjvj0rSb5sNyhMiNwdYRCmgiTbUdxAiwoKxlTZw4oxIBhQgF0gu/xtKX3HqVtFWr92AeI1pkZTFeu6PUuxH7TWHZZt0tjQTbqiTU5LtKUgNVH0J1XTxAbhK9ra00TAqqGqM3TDt1QQ/K3VV+TBtE0HDfYV/Gko2H6uUCJ5h5phSoq7ZxK+oMLaFpgDmSlSCThAU49NNA9oBjDZPddRLIE6fddbImkSh82bnAs19dfhX1Kf8vvjNcbLFoOc6YOukBiBQoStNvuTfdGbmPq8taF1ilsqG54nxD8Kz1DXLUwu79uVddBWrqaCROvX+QUl4Ef9MYzVEo3icIfg468YerfBV3ZFdlIobEnH728gLL/SXSm3RnMMqBenwVuw3CSR7dpGcIaS/ewitu63sIhlBQ6D7w9LuACJMfDGdNvpQpfVrpJvhIu4GGIJgHFtmbO6ba73oqnN9HPPX9bGZ9zGDXIdT4kGD2jwxnqMUDynPELwjhBQU/nmXwPHL9ze9mYGGh9NInWpi1opZFjgq2KQF8kZwQ9v4TX0/qA5kA/aP377IVFXN5iq7Fy9ngEkdP1S0pFuqycxeKmiSB1wPtDpOSXNKZJha4t8oh8HFlR6jIQYl0YkA7yhdYOZZ2KsdMsJY29QCqpOyDI9WUR7jyI5PcUzInGwLxY9ldfdH6T5A7e/oAmL5S99S9TPqI7BzQBhnIWg/HfOAMKIkA05czuWlm5itqYPR09JcUHj3F9LuJ1UCulIIcgrlSofOARP394F0m0lAtNLGwPEvtSTrif/alMmxtvtzR31jtdnkoCDrXOo1o0WAlyUbbFHRP6oGWsoNyM3+R3a8dd4=
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+Client-Id: 5eb393ee95fab7468a79d189
+Client-Type: WEB
+Client-Version: 2.1.6
+If-None-Match: W/"428-hT7bz047ONtYfHPB7gUh9/xUDPY"
+Origin: https://www.pw.live
+Referer: https://www.pw.live/
+Priority: u=1, i
+Randomid: 20436af2-98f4-4b26-bfb5-8d6ca6057e23
+Version: 0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+
+Response Headers
+
+access-control-allow-credentials: true
+access-control-allow-headers: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE, OPTIONS
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cf-ray: a2d2adc60b90fa5d-SIN
+content-encoding: br
+content-length: 974
+content-security-policy: upgrade-insecure-requests
+content-type: application/json; charset=utf-8
+date: Tue, 18 Aug 2026 17:36:08 GMT
+nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+panel: hpanel
+platform: hostinger
+report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=M9TV9i2eC0xR1fy%2BONqrHWjxBsY8GMDd7OosfhFsNnE%3D\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\u0026ts=1787074568"}],"max_age":3600}
+reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=M9TV9i2eC0xR1fy%2BONqrHWjxBsY8GMDd7OosfhFsNnE%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1787074568"
+server: cloudflare
+vary: Accept-Encoding
+via: 1.1 d53e1a749c7769e8c1e1cc4b5cd6ae7c.cloudfront.net (CloudFront), 1.1 heroku-router
+x-amz-cf-id: OtQnN1Amz3NOq8TxgRJrYCtoTaxoDmeiin2ntDW6AJIjlpPhkkpd8w==
+x-amz-cf-pop: IAD55-P9
+x-cache: Miss from cloudfront
+x-firefox-spdy: h2
+x-powered-by: PHP/8.2.30
+x-turbo-charged-by: LiteSpeed
+
+{"success":true,"statusCode":200,"data":[{"_id":"6a730a1589ec1428e2958508","type":"MockAndRegular","currentType":"Regular","name":"Practice Test-04","slug":"practice-test-04-353569","totalQuestions":180,"totalMarks":720,"startTime":"2026-08-09T04:30:55.000Z","maxStartTime":"2026-08-09T16:30:05.000Z","endTime":"2026-08-09T19:30:21.000Z","resultScheduleAt":"2026-08-10T02:00:31.000Z","maxDuration":180,"availableFor":["WEB","MOBILE"],"isSubjective":false,"isPurchased":true,"isFree":false,"attempts":0,"testActivityStatus":"NotStarted","fomoIntent":null,"modeType":"Online","toastMessage":null,"infoMessage":null,"tag1":"Missed","tag2":"Start","isResultAwaiting":false,"toastImage":null,"config":{"isScientificCalculatorEnabled":false,"proctoring":false,"enableCatPercentile":false,"enableBasicCalculator":false,"isScratchPadEnabled":false,"isAccessibilityEnabled":false},"isDelivered":false,"categoryId":"699e8d4b0c56b334eb9fc011","template":"NTA","enableInstructions":true,"enableSyllabus":true,"testLanguages":["English","Hindi"],"smartDPP":false,"difficultyLevel":"2"},{"_id":"6a5f1160cde0fd53b380592e","type":"MockAndRegular","currentType":"Regular","name":"Practice Test-03","slug":"practice-test-03-241951","totalQuestions":180,"totalMarks":720,"startTime":"2026-07-26T04:30:49.000Z","maxStartTime":"2026-07-26T16:30:03.000Z","endTime":"2026-07-26T19:30:17.000Z","resultScheduleAt":"2026-07-27T02:00:25.000Z","maxDuration":180,"availableFor":["WEB","MOBILE"],"isSubjective":false,"isPurchased":true,"isFree":false,"attempts":0,"testActivityStatus":"NotStarted","fomoIntent":null,"modeType":"Online","toastMessage":null,"infoMessage":null,"tag1":"Missed","tag2":"Start","isResultAwaiting":false,"toastImage":null,"config":{"isScientificCalculatorEnabled":false,"proctoring":false,"enableBasicCalculator":false,"isScratchPadEnabled":false,"isAccessibilityEnabled":false},"isDelivered":false,"categoryId":"699e8d4b0c56b334eb9fc011","template":"NTA","enableInstructions":true,"enableSyllabus":true,"testLanguages":["English","Hindi"],"smartDPP":false,"difficultyLevel":"2"},{"_id":"6a4cb3ab0e1226da53dddcec","type":"MockAndRegular","currentType":"Regular","name":"Rank Booster Test-01","slug":"rank-booster-test-01-156517","totalQuestions":180,"totalMarks":720,"startTime":"2026-07-12T04:30:05.000Z","maxStartTime":"2026-07-12T16:30:26.000Z","endTime":"2026-07-12T19:30:43.000Z","resultScheduleAt":"2026-07-13T02:00:52.000Z","maxDuration":180,"availableFor":["WEB","MOBILE"],"isSubjective":false,"isPurchased":true,"isFree":false,"attempts":0,"testActivityStatus":"NotStarted","fomoIntent":null,"modeType":"Online","toastMessage":null,"infoMessage":null,"tag1":"Missed","tag2":"Start","isResultAwaiting":false,"toastImage":null,"config":{"isScientificCalculatorEnabled":false,"proctoring":false,"enableBasicCalculator":false,"isScratchPadEnabled":false,"isAccessibilityEnabled":false},"isDelivered":false,"categoryId":"699e8d4b0c56b334eb9fc011","template":"NTA","enableInstructions":true,"enableSyllabus":true,"testLanguages":["English","Hindi"],"smartDPP":false,"difficultyLevel":"2"},{"_id":"6a3e15a24cec48ab3213411d","type":"MockAndRegular","currentType":"Regular","name":"Practice Test-02","slug":"practice-test-02-542249","totalQuestions":180,"totalMarks":720,"startTime":"2026-06-28T04:30:02.000Z","maxStartTime":"2026-06-28T16:30:17.000Z","endTime":"2026-06-28T19:30:36.000Z","resultScheduleAt":"2026-06-29T02:00:53.000Z","maxDuration":180,"availableFor":["WEB","MOBILE"],"isSubjective":false,"isPurchased":true,"isFree":false,"attempts":0,"testActivityStatus":"NotStarted","fomoIntent":null,"modeType":"Online","toastMessage":null,"infoMessage":null,"tag1":"Missed","tag2":"Start","isResultAwaiting":false,"toastImage":null,"config":{"isScientificCalculatorEnabled":false,"proctoring":false,"enableBasicCalculator":false,"isScratchPadEnabled":false,"isAccessibilityEnabled":false},"isDelivered":false,"categoryId":"699e8d4b0c56b334eb9fc011","template":"NTA","enableInstructions":true,"enableSyllabus":true,"testLanguages":["English","Hindi"],"smartDPP":false,"difficultyLevel":"2"},{"_id":"6a2bbc43df0b745bbf185f45","type":"MockAndRegular","currentType":"Regular","name":"Practice Test-01","slug":"practice-test-01-611077","totalQuestions":180,"totalMarks":720,"startTime":"2026-06-14T04:30:28.000Z","maxStartTime":"2026-06-14T16:30:37.000Z","endTime":"2026-06-14T19:31:49.000Z","resultScheduleAt":"2026-06-15T02:00:07.000Z","maxDuration":180,"availableFor":["WEB","MOBILE"],"isSubjective":false,"isPurchased":true,"isFree":false,"attempts":0,"testActivityStatus":"NotStarted","fomoIntent":null,"modeType":"Online","toastMessage":null,"infoMessage":null,"tag1":"Missed","tag2":"Start","isResultAwaiting":false,"toastImage":null,"config":{"isScientificCalculatorEnabled":false,"proctoring":false,"enableBasicCalculator":false,"isScratchPadEnabled":false,"isAccessibilityEnabled":false},"isDelivered":false,"categoryId":"699e8d4b0c56b334eb9fc011","template":"NTA","enableInstructions":true,"enableSyllabus":true,"testLanguages":["English","Hindi"],"smartDPP":false,"difficultyLevel":"2"}]}
