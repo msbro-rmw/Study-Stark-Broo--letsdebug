@@ -1,0 +1,47 @@
+GET https://vidcloud.eu.org/api/v3/test-service/tests/new-dpp-list?page=1&batchId=698adaafee5f29171102c9ca&batchSubjectId=699f15c8fb58aa8dd7fa6d75&chapterId=6a0bf4dccd2a76b86af6e5fe&dppType=ALL&limit=20 200
+
+Request Headers
+
+Authorization: Bearer Qd2wfhzRoi5eQdoITwpbNKPMdMTNSs37YUjvj0rSb5sNyhMiNwdYRCmgiTbUdxAiwoKxlTZw4oxIBhQgF0gu/xtKX3HqVtFWr92AeI1pkZTFeu6PUuxH7TWHZZt0tjQTbqiTU5LtKUgNVH0J1XTxAbhK9ra00TAqqGqM3TDt1QQ/K3VV+TBtE0HDfYV/Gko2H6uUCJ5h5phSoq7ZxK+oMLaFpgDmSlSCThAU49NNA9oBjDZPddRLIE6fddbImkSh82bnAs19dfhX1Kf8vvjNcbLFoOc6YOukBiBQoStNvuTfdGbmPq8taF1ilsqG54nxD8Kz1DXLUwu79uVddBWrqaCROvX+QUl4Ef9MYzVEo3icIfg468YerfBV3ZFdlIobEnH728gLL/SXSm3RnMMqBenwVuw3CSR7dpGcIaS/ewitu63sIhlBQ6D7w9LuACJMfDGdNvpQpfVrpJvhIu4GGIJgHFtmbO6ba73oqnN9HPPX9bGZ9zGDXIdT4kGD2jwxnqMUDynPELwjhBQU/nmXwPHL9ze9mYGGh9NInWpi1opZFjgq2KQF8kZwQ9v4TX0/qA5kA/aP377IVFXN5iq7Fy9ngEkdP1S0pFuqycxeKmiSB1wPtDpOSXNKZJha4t8oh8HFlR6jIQYl0YkA7yhdYOZZ2KsdMsJY29QCqpOyDI9WUR7jyI5PcUzInGwLxY9ldfdH6T5A7e/oAmL5S99S9TPqI7BzQBhnIWg/HfOAMKIkA05czuWlm5itqYPR09JcUHj3F9LuJ1UCulIIcgrlSofOARP394F0m0lAtNLGwPEvtSTrif/alMmxtvtzR31jtdnkoCDrXOo1o0WAlyUbbFHRP6oGWsoNyM3+R3a8dd4=
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+Client-Id: 5eb393ee95fab7468a79d189
+Client-Type: WEB
+Client-Version: 2.1.6
+If-None-Match: W/"428-hT7bz047ONtYfHPB7gUh9/xUDPY"
+Origin: https://www.pw.live
+Referer: https://www.pw.live/
+Priority: u=1, i
+Randomid: d7f62b97-b82a-40e3-b735-1b0cd40db35e
+Version: 0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+
+Response Headers
+
+access-control-allow-credentials: true
+access-control-allow-headers: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE, OPTIONS
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cf-ray: a2d2abc1c8b58d32-SIN
+content-encoding: br
+content-length: 903
+content-security-policy: upgrade-insecure-requests
+content-type: application/json; charset=utf-8
+date: Tue, 18 Aug 2026 17:34:45 GMT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+panel: hpanel
+platform: hostinger
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U2u%2B9mJAo9jnUrSMNHtnJk5S%2Fr2%2F5oWcqRZ5fhZ69GmZVOez2A4bOmwy%2FHFR3iuHOhfNJRcpNtKniXZVp8pVwC1aAfXaxNbYKYAT8TG6oBgozh9gJjGy2hobfzWCAg6zj2%2BzYxT%2Bonycu1Pe1wWdnqtPtml9BKGp0uhkpy7sMuKlTtXmS8Tp"}]}
+server: cloudflare
+vary: Accept-Encoding
+via: 1.1 a9b4641f7a38f2a58dc821ec435bb510.cloudfront.net (CloudFront)
+x-amz-cf-id: _vKV8hz5kgllLceSfcQpPPddE-Z53FVcEcyjQW2OG0f2VPTGMBxN3g==
+x-amz-cf-pop: CDG52-P7
+x-cache: Miss from cloudfront
+x-firefox-spdy: h2
+x-powered-by: PHP/8.2.30
+x-turbo-charged-by: LiteSpeed
+
+{"success":true,"statusCode":200,"data":[{"_id":"7","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a1ff78184e003e4e5b396c5","displayOrder":8,"name":"गणितीय उपकरण : DPP 08 (MCQ Quiz)","totalMarks":56,"totalQuestions":14,"maxDuration":20,"createdAt":"2026-06-03T11:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a1ff7f0b8a8d9e47cbec8a6","contentId":"6a1ff781c37ab1149dbbdd2a"}},{"_id":"6","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a1fbc4a92f8025a502d5a3b","displayOrder":7,"name":"गणितीय उपकरण : DPP 07 (MCQ Quiz)","totalMarks":88,"totalQuestions":22,"maxDuration":25,"createdAt":"2026-06-03T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0eb8aecdc6d9c1ca28b3e7","contentId":"6a1fbc4ac37ab1149db9e7f7"}},{"_id":"5","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a1e6c46f7116315bd930d93","displayOrder":6,"name":"गणितीय उपकरण : DPP 06 (MCQ Quiz)","totalMarks":72,"totalQuestions":18,"maxDuration":20,"createdAt":"2026-06-02T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0eb8aecdc6d9c1ca28b3dd","contentId":"6a1e6c461c70d3dca6582622"}},{"_id":"4","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a1d5cdc2396754ab93af3e7","displayOrder":5,"name":"गणितीय उपकरण : DPP 05 (MCQ Quiz)","totalMarks":64,"totalQuestions":16,"maxDuration":15,"createdAt":"2026-06-01T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a1956cc442cb2e7995439a3","contentId":"6a1d5cdc41c99a31263411f9"}},{"_id":"3","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a1955d9cde3f4cc2024fa20","displayOrder":4,"name":"गणितीय उपकरण : DPP 04 (MCQ Quiz)","totalMarks":60,"totalQuestions":15,"maxDuration":25,"createdAt":"2026-05-29T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0eb8aecdc6d9c1ca28b3b4","contentId":"6a1955d9a8283547478577c6"}},{"_id":"2","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a15477943f5ed5337353a35","displayOrder":3,"name":"गणितीय उपकरण : DPP 03 (MCQ Quiz)","totalMarks":84,"totalQuestions":21,"maxDuration":30,"createdAt":"2026-05-26T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0eb8aecdc6d9c1ca28b3b2","contentId":"6a1547790c857a917e1e7b6f"}},{"_id":"1","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a0fe81a21c816402fb00f71","displayOrder":2,"name":"गणितीय उपकरण : DPP 02 (MCQ Quiz)","totalMarks":76,"totalQuestions":19,"maxDuration":25,"createdAt":"2026-05-22T03:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0d66f1cdb16e5898a588e0","contentId":"6a0fe81a389c82e4e4414d69"}},{"_id":"0","type":"DPP_QUIZ","dppQuizDetails":{"test":{"_id":"6a0ea5e0bb63f23289cb378a","displayOrder":1,"name":"गणितीय उपकरण : DPP 01 (MCQ Quiz)","totalMarks":84,"totalQuestions":21,"maxDuration":25,"createdAt":"2026-05-21T05:30:00.000Z","isSubjective":false,"smartDPP":false},"testStudentMapping":{},"isPurchased":false,"tag":"Start","isReattempted":false,"isFree":false,"scheduleId":"6a0c2c67110881cbb2d73577","contentId":"6a0ea5e054a1253337c9201f"}}],"paginate":{"totalCount":8,"limit":20}}
