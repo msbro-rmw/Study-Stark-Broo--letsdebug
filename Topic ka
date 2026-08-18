@@ -1,0 +1,49 @@
+GET https://vidcloud.eu.org/api/v2/batches/698adaafee5f29171102c9ca/subject/699f15c8fb58aa8dd7fa6d75/topics?page=1 200
+
+Request Headers
+
+Authorization: Bearer Qd2wfhzRoi5eQdoITwpbNKPMdMTNSs37YUjvj0rSb5sNyhMiNwdYRCmgiTbUdxAiwoKxlTZw4oxIBhQgF0gu/xtKX3HqVtFWr92AeI1pkZTFeu6PUuxH7TWHZZt0tjQTbqiTU5LtKUgNVH0J1XTxAbhK9ra00TAqqGqM3TDt1QQ/K3VV+TBtE0HDfYV/Gko2H6uUCJ5h5phSoq7ZxK+oMLaFpgDmSlSCThAU49NNA9oBjDZPddRLIE6fddbImkSh82bnAs19dfhX1Kf8vvjNcbLFoOc6YOukBiBQoStNvuTfdGbmPq8taF1ilsqG54nxD8Kz1DXLUwu79uVddBWrqaCROvX+QUl4Ef9MYzVEo3icIfg468YerfBV3ZFdlIobEnH728gLL/SXSm3RnMMqBenwVuw3CSR7dpGcIaS/ewitu63sIhlBQ6D7w9LuACJMfDGdNvpQpfVrpJvhIu4GGIJgHFtmbO6ba73oqnN9HPPX9bGZ9zGDXIdT4kGD2jwxnqMUDynPELwjhBQU/nmXwPHL9ze9mYGGh9NInWpi1opZFjgq2KQF8kZwQ9v4TX0/qA5kA/aP377IVFXN5iq7Fy9ngEkdP1S0pFuqycxeKmiSB1wPtDpOSXNKZJha4t8oh8HFlR6jIQYl0YkA7yhdYOZZ2KsdMsJY29QCqpOyDI9WUR7jyI5PcUzInGwLxY9ldfdH6T5A7e/oAmL5S99S9TPqI7BzQBhnIWg/HfOAMKIkA05czuWlm5itqYPR09JcUHj3F9LuJ1UCulIIcgrlSofOARP394F0m0lAtNLGwPEvtSTrif/alMmxtvtzR31jtdnkoCDrXOo1o0WAlyUbbFHRP6oGWsoNyM3+R3a8dd4=
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+Client-Id: 5eb393ee95fab7468a79d189
+Client-Type: WEB
+Client-Version: 2.1.6
+If-None-Match: W/"428-hT7bz047ONtYfHPB7gUh9/xUDPY"
+Origin: https://www.pw.live
+Referer: https://www.pw.live/
+Priority: u=1, i
+Randomid: 01826700-acbc-4ed3-a423-e021f9c089db
+Version: 0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+
+Response Headers
+
+access-control-allow-credentials: true
+access-control-allow-headers: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE, OPTIONS
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+cf-ray: a2d29e82e9bf16e8-SIN
+content-encoding: br
+content-length: 810
+content-security-policy: upgrade-insecure-requests
+content-type: application/json; charset=utf-8
+date: Tue, 18 Aug 2026 17:25:43 GMT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+panel: hpanel
+platform: hostinger
+priority: u=1,i
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BYzaKWfBLor8EnvVcb63lwprIRjvJXpVWK3IaW7p2A8PtMrz%2BeFLJPiUve%2FYJVlTk0i4NUveFJTJz2yuqR4%2FSEnHXmh60n7IKD2pX90R4HUlrRWZ72EYyue4dUiB0ghhOYZhCtVlo35F4Z12qvk2ggU3Toc8i%2B8JCc30GurCmngJiI%2FuTQPV"}]}
+server: cloudflare
+server-timing: cfExtPri
+vary: Accept-Encoding
+via: 1.1 137b04f744cfac3a7704d1e831d376b8.cloudfront.net (CloudFront)
+x-amz-cf-id: t0C20CZ_0hKERdwRarNUZ9B0l8LQGag9dBXDU3eKr39NhNmfr2u9Lw==
+x-amz-cf-pop: CDG52-P7
+x-cache: Miss from cloudfront
+x-firefox-http3: h3
+x-powered-by: PHP/8.2.30
+x-turbo-charged-by: LiteSpeed
+
+{"success":true,"data":[{"_id":"6a0ecbac17117cab7dc38bf6","name":"Concise Notes || (Only PDF)","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":1,"notes":62,"exercises":0,"videos":0,"lectureVideos":0,"slug":"concise-notes-||--only-pdf--729208"},{"_id":"6a2292c55f37343e14c263b3","name":"Practice Sheet || (Only PDF)","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":1,"notes":5,"exercises":0,"videos":0,"lectureVideos":0,"slug":"practice-sheet-||--only-pdf--672720"},{"_id":"6a3cc08d43b55e434b43197c","name":"Paper Discussion","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":1,"notes":5,"exercises":0,"videos":5,"lectureVideos":5,"slug":"paper-discussion-024262"},{"_id":"6a730152c83601f482ecf3ca","name":"Handwritten Notes || (Only PDF)","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":1,"notes":4,"exercises":0,"videos":0,"lectureVideos":0,"slug":"handwritten-notes-||--only-pdf--503546"},{"_id":"6a0bf4dccd2a76b86af6e5fe","name":"गणितीय उपकरण","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":2,"notes":18,"exercises":8,"videos":10,"lectureVideos":10,"slug":"गणितीय-उपकरण-396530"},{"_id":"6a0bf4dccd2a76b86af6e5ff","name":"सदिश","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":2,"notes":13,"exercises":5,"videos":8,"lectureVideos":8,"slug":"सदिश-965320"},{"_id":"6a0bf4dccd2a76b86af6e600","name":"इकाई तथा मापन","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":3,"notes":21,"exercises":9,"videos":12,"lectureVideos":12,"slug":"इकाई-तथा-मापन-717060"},{"_id":"6a0bf4dccd2a76b86af6e601","name":"सरल रेखा में गति","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":4,"notes":23,"exercises":10,"videos":12,"lectureVideos":12,"slug":"सरल-रेखा-में-गति-386949"},{"_id":"6a0bf4dccd2a76b86af6e602","name":"समतल में गति","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":5,"notes":14,"exercises":4,"videos":9,"lectureVideos":9,"slug":"समतल-में-गति-325251"},{"_id":"6a0bf4dccd2a76b86af6e603","name":"गति के नियम","type":"BATCH_SCHEDULE_VIDEO","typeId":"699f15c8fb58aa8dd7fa6d75","displayOrder":6,"notes":23,"exercises":10,"videos":13,"lectureVideos":13,"slug":"गति-के-नियम-126453"}],"paginate":{"limit":20,"totalCount":10,"videosCount":69}}
